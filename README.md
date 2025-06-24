@@ -1,5 +1,6 @@
-# BrainTumorClassification
+## BrainTumorClassification Project Structure
 
+```text
 BrainTumorProject/
 │
 ├── run.ipynb                  # Master dashboard for loading/summarizing all models
@@ -20,4 +21,6 @@ BrainTumorProject/
 ├── data/
 │   ├── Training/
 │   └── Testing/
+```
+
 
