@@ -19,7 +19,8 @@ Grad-CAM was applied to test images to examine where each model was "looking" wh
 
 ## 📄 Full Report
 
-📘 [Read the full paper](Automated Brain Tumor Classification from MRI_ A Deep Learning Pipeline for Integrative Neuroimaging Research.pdf)
+📄 [Read the full paper](Automated%20Brain%20Tumor%20Classification%20from%20MRI_%20A%20Deep%20Learning%20Pipeline%20for%20Integrative%20Neuroimaging%20Research.pdf)
+
 
 ---
 
